@@ -1,22 +1,22 @@
 {
-  "intro": "Hej",
+  "intro": "Hello there.",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
+    "src": "../../images/test-melvin.jpg",
     "alt": "My Photo"
   },
   "image": {
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "My name is Melvin Vasquez.",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
+    "prefix": "Your friendly neighborhood ",
+    "highlight": "Web Developer",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": false
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": true
   }
 }
