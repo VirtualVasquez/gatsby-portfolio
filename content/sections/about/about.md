@@ -1,14 +1,14 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/test-2.jpg"
+imageAlt: "An exteremely handsome man named Melvin Vasquez"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+I started to learn to code in 2018, and since then I have never looked backed. Coding hit a perfect trifecta that I was always looking for in a career.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+It allows me to help people in many different ways.
+It grants me the ability to bring cool and creative concepts to life.
+It pushes me to constantly go beyond my limits, both professionally and personally.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+I get excited at the opportunities to face new challenges, and that translates into making sure that anything I'm involved in receives nothing less than the best of me.
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+As a full-stack developer, I get to work in virtually anything and everything that I want and you need. Whether that's creating user-friendly experiences with React and Bootstrap, setting up servers with .NET or Node.js, or constructing and connecting to databases with SQL or MongoDB, I take it all in stride and with a smile.
