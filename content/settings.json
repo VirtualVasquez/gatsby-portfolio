@@ -30,10 +30,7 @@
         "label": "Resume",
         "url": "/resume.pdf"
       },
-      "footer": [
-        { "label": "", "url": "" },
-        { "label": "", "url": "" }
-      ]
+      "footer": []
     },
     "featureToggles": {
       "useDarkModeAsDefault": false,

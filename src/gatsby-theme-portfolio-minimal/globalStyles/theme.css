@@ -25,10 +25,10 @@ body[data-theme='darkTheme'] {
     --tertiary-color: #252525;
     --text-color: rgba(255, 255, 255, 0.87);
     --subtext-color: #aaaaaa;
-    --background-color: #4169E1;
+    --background-color: #0074D9;
     --card-background-color: #1c1c1c;
     --scroll-bar-color: rgba(255, 255, 255, 0.5);
-    --box-shadow-color: rgba(0, 0, 0, 0.16);
+    --box-shadow-color: #001F3F;
     --box-shadow-hover-color: rgba(0, 0, 0, 0.32);
     --base-font: 'Roboto', Arial, sans-serif;
     --code-block-bg: #151f28;
@@ -38,5 +38,50 @@ body[data-theme='darkTheme'] {
     --code-block-keyword: #2bdcff;
     --code-block-comment: #8292a2;
     --code-block-tkimp: #fd971f;
+    font-size: 18px;
+}
+
+p, span, h1, h2, h3, h4, h5, h6, [class^=style-module--NavLink], [class^=style-module--CtaButton]{
+    text-shadow: 1px 2px 4px #001F3F;
+}
+
+[class^=style-module--CtaButton]:hover{
+    text-shadow: none;
+}
+
+[class^=style-module--Contact]{
+    border-top: 2px solid var(--box-shadow-hover-color);
+    width: 100vw;
+    max-width: 100vw !important;
+    text-align: center;
+    padding-top: 4rem !important;
+    margin: 0 auto 4rem auto !important;
+}
+
+[class^=style-module--Profile]{
+    margin-bottom: 0 !important;
+}
+
+[class^=style-module--CtaButton], [class^=style-module--Profile], [class^=style-module--Button], [class^=style-module--Interest--], 
+.style-module--heroImageCont--20e7f .style-module--heroImage--9e361,
+[class^=style-module--ImageWrapper--] > [class^=gatsby-image-wrapper], [class^=style-module--ProjectImageWrapper]{
+    box-shadow: 1px 2px 4px var(--box-shadow-color) !important;
+}
+
+[class^=style-module--ContactDetails] {
+    display: none;
+}
+
+[class^=style-module--SlideContainer] > [class^=style-module--Profile] {
+    width: 130px;
+    text-align: center;
+}
+
+[class^=style-module--Footer]{
+    display: none !important;
+}
+
+u{
+    box-shadow: inset 0 -0.1em 0 var(--box-shadow-color);
 }
 
