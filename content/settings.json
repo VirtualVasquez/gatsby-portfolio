@@ -17,7 +17,7 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "" },
+    "logo": { "text": "Melvin Vasquez" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
