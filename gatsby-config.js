@@ -3,10 +3,10 @@ module.exports = {
     {
       resolve: "gatsby-theme-portfolio-minimal",
       options: {
-        siteUrl: "https://melvinvasquez.com/", // Used for sitemap generation
+        siteUrl: "https://virtualvasquez.github.io/gatsby-portfolio/", // Used for sitemap generation
         manifestSettings: {
           favicon: "./content/images/favicon.png", // Path is relative to the root
-          siteName: "My Minimal Portfolio", // Used in manifest.json
+          siteName: "Melvin Vasquez Web Portfolio", // Used in manifest.json
           shortName: "Portfolio", // Used in manifest.json
           startUrl: "/", // Used in manifest.json
           backgroundColor: "#FFFFFF", // Used in manifest.json
