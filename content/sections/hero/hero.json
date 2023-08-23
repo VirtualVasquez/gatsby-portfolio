@@ -1,7 +1,7 @@
 {
   "intro": "Hello there.",
   "heroPhoto": {
-    "src": "../../images/test-melvin.jpg",
+    "src": "../../images/melvin.jpg",
     "alt": "My Photo"
   },
   "image": {

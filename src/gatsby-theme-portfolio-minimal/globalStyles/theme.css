@@ -93,3 +93,6 @@ u{
     align-content: center
 }
 
+#features > [class^=style-module--ContentWrapper]{
+    margin: 0 auto 2rem auto;
+}

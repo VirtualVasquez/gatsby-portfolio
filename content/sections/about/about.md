@@ -1,5 +1,5 @@
 ---
-imageSrc: "../../images/test-2.jpg"
+imageSrc: "../../images/test-melvin.jpg"
 imageAlt: "An exteremely handsome man named Melvin Vasquez"
 ---
 
