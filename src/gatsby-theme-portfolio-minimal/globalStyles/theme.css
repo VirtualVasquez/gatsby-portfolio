@@ -85,3 +85,11 @@ u{
     box-shadow: inset 0 -0.1em 0 var(--box-shadow-color);
 }
 
+#details > [class^=style-module--ContentWrapper] {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center
+}
+
