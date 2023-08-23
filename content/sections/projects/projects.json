@@ -2,47 +2,74 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "\uD83D\uDCDD Write and read for all to see!",
+      "title": "mvp_forums",
+      "description": "mvp_forums simulates interactive forums using ASP.NET Core and React, encompassing boards, posts, and discussions. It features JSON Web Token authentication, Azure hosting, and PostgreSQL with Entity Framework. The project yielded insights into full-stack development, authentication implementation, and database management.",
+      "tags": [""],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "src": "../../images/mvp-forums.png",
+        "alt": "mvp_forums homepage as an authenticated user",
+        "linkTo": "https://mvp-forums.azurewebsites.net"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/VirtualVasquez/mvp-forums"
         },
         {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://mvp-forums.azurewebsites.net"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "🔼 Fantasy Stock Trading",
+      "title": "Stonks Exchange",
+      "description": "At the Stonk Exchange, you can practice buying and selling real-world stocks with imaginary money. This eliminates the risk of losing you're real money while you get more comfortable with the idea of trading stocks. This application is built with PostgreSQL, Express, React, and Node, as well as Finnhub API and the Financial Modeling Prep API",
+      "tags": [""],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/stonks.png",
+        "alt": "Extendable Layout",
+        "linkTo": "https://stonks-9too.onrender.com/"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/VirtualVasquez/Fantasy-Trading"
+        },
+        {
+          "type": "external",
+          "url": "https://stonks-9too.onrender.com/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "❤️ A Wonderful Puzzle",
+      "title": "Undertale Hangman",
+      "description": "Styled after the hit indie-game Undertale, this game of hangman provides a charming and robust experience. Users can either use their keyboard to type in a guess, or enable the optional onscreen keyboard instead. Much like a certain someone's puzzles, it may not be too complicated, but it is quite enjoyable nonetheless.",
+      "tags": [""],
+      "image": {
+        "src": "../../images/undertale.png",
+        "alt": "Extendable Layout",
+        "linkTo": "https://virtualvasquez.github.io/Hangman-Game/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/VirtualVasquez/Hangman-Game"
+        },
+        {
+          "type": "external",
+          "url": "https://virtualvasquez.github.io/Hangman-Game/"
         }
       ]
     }
   ],
   "button": {
-    "visible": true,
-    "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "visible": false,
+    "label": "More projects on Github",
+    "url": "https://github.com/VirtualVasquez"
   }
 }
