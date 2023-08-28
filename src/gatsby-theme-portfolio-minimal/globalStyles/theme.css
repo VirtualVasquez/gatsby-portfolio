@@ -62,6 +62,11 @@ p, span, h1, h2, h3, h4, h5, h6, [class^=style-module--NavLink], [class^=style-m
     margin-bottom: 0 !important;
 }
 
+[class^=style-module--About] > :nth-child(2){
+    display: flex;
+    align-items: center;
+}
+
 [class^=style-module--CtaButton], [class^=style-module--Profile], [class^=style-module--Button], [class^=style-module--Interest--], 
 .style-module--heroImageCont--20e7f .style-module--heroImage--9e361,
 [class^=style-module--ImageWrapper--] > [class^=gatsby-image-wrapper], [class^=style-module--ProjectImageWrapper]{
@@ -95,4 +100,66 @@ u{
 
 #features > [class^=style-module--ContentWrapper]{
     margin: 0 auto 2rem auto;
+}
+[class^=style-module--Tags]{
+    display: none !important;
+}
+
+
+@media only screen and (max-width: 768px) {
+    #hero > [class^=style-module--HeroContainer] > [class^=style-module--Hero-] {
+        min-height: 0 !important;
+    }
+    #hero > [class^=style-module--HeroContainer], 
+    #hero > [class^=style-module--HeroContainer] > [class^=style-module--Hero-] {
+        display: flex;
+        text-align: center;
+        align-items: center;
+    }
+    [class^=style-module--Hero-] > div > [class^=style-module--SlideContainer]{
+        display: flex;
+        flex-direction: column;
+    }
+    [class^=style-module--Hero-] > div > [class^=style-module--SlideContainer] > a{
+        margin-bottom: 0.5rem !important;
+    }
+    #about, #features{
+        text-align: center;
+    }
+    [class^=style-module--About]{
+        display: flex;
+        align-items: center;
+    }
+    [class^=style-module--About] > :nth-child(2){
+        display: flex;
+        justify-content: center;
+    }
+
+    [class^=style-module--Links]{
+        justify-content: center !important;
+    }
+    [class^=style-module--Links] > a{
+        margin-right: 0 !important;
+    }
+    [class^=style-module--Links] > a:first-child{
+        margin-right: 1rem !important;
+    }
+    [class^=style-module--Links] > a:last-child{
+        margin-left: 1rem !important;
+    }
+    [class^=style-module--Contact] > [class^=style-module--Description]{
+        margin-bottom:2rem !important;
+    }
+    [class^=style-module--Contact] > [class^=style-module--Profile]{
+        display: none !important;
+    }
+    [class^=style-module--Contact] > [class^=style-module--SlideContainer]{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    [class^=style-module--Contact] > [class^=style-module--SlideContainer] > a{
+        margin: 0 0 0.5rem 0 !important;
+    }
+    
 }
