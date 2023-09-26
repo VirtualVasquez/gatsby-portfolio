@@ -3,7 +3,7 @@ imageSrc: "../../images/test-melvin.jpg"
 imageAlt: "An exteremely handsome man named Melvin Vasquez"
 ---
 
-I started to learn to code in 2018, and since then I have never looked backed. Coding hit a perfect trifecta that I was always looking for in a career.
+I started to learn to code in 2018, and since then I have never looked back. Coding hit a perfect trifecta that I was always looking for in a career.
 
 It allows me to help people in many different ways.
 It grants me the ability to bring cool and creative concepts to life.
