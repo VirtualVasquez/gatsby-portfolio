@@ -1,7 +1,7 @@
 {
   "name": "Melvin Vasquez Web Portfolio",
   "version": "1.0.0",
-  "description": "Your friendly neighborhood Web Developer.",
+  "description": "Your friendly neighborhood Web Developer specializing in React.js and crafting dynamic MERN/PERN stack applications. Dedicated to modern and engaging web experiences.",
   "scripts": {
     "clean": "gatsby clean",
     "develop": "gatsby develop",
