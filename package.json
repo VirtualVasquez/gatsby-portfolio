@@ -1,7 +1,7 @@
 {
   "name": "Melvin Vasquez Web Portfolio",
   "version": "1.0.0",
-  "description": "A web portfolio constructed using the gatsby-starter-portfolio minimal theme",
+  "description": "Your friendly neighborhood Web Developer.",
   "scripts": {
     "clean": "gatsby clean",
     "develop": "gatsby develop",
