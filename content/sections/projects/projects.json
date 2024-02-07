@@ -46,6 +46,28 @@
     },
     {
       "visible": true,
+      "category": "🦜 Get those Tweets. Or is it X's?",
+      "title": "Twitter X",
+      "description": "By interfacing with Twitter's (X's) API, you can search for tweets (Xs) on any given topic you choose. Alternatively, by clicking on one of five curated user accounts, you can get one of the last ten posts made by the given user at random. This applications was designed and developed as an ASP.NET Core application using React.js.",
+      "tags": [""],
+      "image": {
+        "src": "../../images/x.png",
+        "alt": "Extendable Layout",
+        "linkTo": "https://twitter-showcase-app20210731170901.azurewebsites.net/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/VirtualVasquez/twitter-showcase-app"
+        },
+        {
+          "type": "external",
+          "url": "https://twitter-showcase-app20210731170901.azurewebsites.net/"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "category": "❤️ A Wonderful Puzzle",
       "title": "Undertale Hangman",
       "description": "Styled after the hit indie-game Undertale, this game of hangman provides a charming and robust experience. Users can either use their keyboard to type in a guess, or enable the optional onscreen keyboard instead. Much like a certain someone's puzzles, it may not be too complicated, but it is quite enjoyable nonetheless.",
